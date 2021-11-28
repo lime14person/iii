@@ -1,0 +1,21 @@
+main h1 {
+    font-style: normal;
+    margin-top: 50px;
+    text-align:center;
+}
+
+main h1 span {
+    color:var(--orange);
+}
+
+.r {
+    margin-left: 238px;
+    margin-right: 405px;
+    max-width:1277px;
+    margin-top: 50px;
+}
+p {
+  font-size: medium;  
+  margin-left: 518px;
+  margin-right: 50px;
+}
